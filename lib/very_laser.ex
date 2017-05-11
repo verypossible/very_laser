@@ -1,0 +1,2 @@
+defmodule VeryLaser do
+end
